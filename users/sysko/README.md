@@ -24,6 +24,6 @@ This page is for my notes/write-ups as well as other things scattered about.
 - Portswigger style notes
 - Linux hardening experiments
 - Log analysis (Nginx, system logs, etc.)
-<br>
-"There are approximately 1,010,300 words in the English language, but I could never string enough words together to properly express how much I want to hit you with a chair." 
-― Alexander Hamilton 
+<br><br>
+> "There are approximately 1,010,300 words in the English language, but I could never string enough words together to properly express how much I want to hit you with a chair."  
+> ― Alexander Hamilton
