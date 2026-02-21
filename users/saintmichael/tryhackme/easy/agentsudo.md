@@ -18,36 +18,36 @@
 
 ### Task 2: Enumerate
 
-| Question                                    | Answer       |
-| ------------------------------------------- | ------------ |
-| How many open ports?                        | `3`          |
-| How you redirect yourself to a secret page? | `User-Agent` |
-| What is the agent name?                     | `Chris`      |
+| Question                                    | Answer                                                   |
+| ------------------------------------------- | -------------------------------------------------------- |
+| How many open ports?                        | <details><summary>Reveal</summary>`3`</details>          |
+| How you redirect yourself to a secret page? | <details><summary>Reveal</summary>`User-Agent`</details> |
+| What is the agent name?                     | <details><summary>Reveal</summary>`Chris`</details>      |
 
 ### Task 3: Hash-Cracking and Brute-Force
 
-| Question                              | Answer         |
-| ------------------------------------- | -------------- |
-| FTP Password?                         | `crystal`      |
-| Zip File Password?                    | `alien`        |
-| Steg Password?                        | `Area51`       |
-| Who is the other agent(in full name)? | `james`        |
-| SSH Password?                         | `hackerrules!` |
+| Question                               | Answer                                                     |
+| -------------------------------------- | ---------------------------------------------------------- |
+| FTP Password?                          | <details><summary>Reveal</summary>`crystal`</details>      |
+| Zip File Password?                     | <details><summary>Reveal</summary>`alien`</details>        |
+| Steg Password?                         | <details><summary>Reveal</summary>`Area51`</details>       |
+| Who is the other agent (in full name)? | <details><summary>Reveal</summary>`james`</details>        |
+| SSH Password?                          | <details><summary>Reveal</summary>`hackerrules!`</details> |
 
 ### Task 4: Capture the user flag
 
-| Question                                  | Answer                             |
-| ----------------------------------------- | ---------------------------------- |
-| What is the user flag?                    | `b03d975e8c92a7c04146cfa7a5a313c7` |
-| What is the incident of the photo called? | `Rosewell Alien Autospy`           |
+| Question                                  | Answer                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------ |
+| What is the user flag?                    | <details><summary>Reveal</summary>`b03d975e8c92a7c04146cfa7a5a313c7`</details> |
+| What is the incident of the photo called? | <details><summary>Reveal</summary>`Rosewell Alien Autospy`</details>           |
 
 ### Task 5: Privilege Escalation
 
-| Question                                  | Answer                             |
-| ----------------------------------------- | ---------------------------------- |
-| What is the CVE number for the escalation | `CVE-2019-14287`                   |
-| What is the root flag?                    | `b53a02f55b57d4439e3341834d70c062` |
-| Who is agent R?                           | `DesKel`                           |
+| Question                                   | Answer                                                                         |
+| ------------------------------------------ | ------------------------------------------------------------------------------ |
+| What is the CVE number for the escalation? | <details><summary>Reveal</summary>`CVE-2019-14287`</details>                   |
+| What is the root flag?                     | <details><summary>Reveal</summary>`b53a02f55b57d4439e3341834d70c062`</details> |
+| Who is agent R?                            | <details><summary>Reveal</summary>`DesKel`</details>                           |
 
 ---
 
