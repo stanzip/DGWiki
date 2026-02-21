@@ -14,7 +14,8 @@ These platforms are commonly used to:
 
 ## Digital Gangster Provided Learning
 
-- [HTB Academy](https://dgwiki.dg4e.net/#/users/saintmichael/htb_academy/README)
+- [HTB Academy](https://dgwiki.dg4e.net/#/users/saintmichael/htb_academy/README) - From `saintmichael`
+- [THM CTF Write-Ups](https://dgwiki.dg4e.net/#/users/saintmichael/tryhackme/README) - From `saintmichael`
 
 
 ## Downloadable Vulnerable Machines
