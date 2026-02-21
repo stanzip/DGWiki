@@ -18,25 +18,27 @@
 
 ### Task 2: Reconnaissance
 
-| Question                                      | Answer    |
-| --------------------------------------------- | --------- |
-| Scan the machine, how many ports are open?    | `2`       |
-| What version of Apache is running?            | `2.4.41`  |
-| What service is running on port 22?           | `ssh`     |
-| Using Gobuster, what is the hidden directory? | `/panel/` |
+### Task 2: Reconnaissance
+
+| Question                                      | Answer                                                |
+| --------------------------------------------- | ----------------------------------------------------- |
+| Scan the machine, how many ports are open?    | <details><summary>Reveal</summary>`2`</details>       |
+| What version of Apache is running?            | <details><summary>Reveal</summary>`2.4.41`</details>  |
+| What service is running on port 22?           | <details><summary>Reveal</summary>`ssh`</details>     |
+| Using Gobuster, what is the hidden directory? | <details><summary>Reveal</summary>`/panel/`</details> |
 
 ### Task 3: Getting a Shell
 
-| Question                        | Answer                 |
-| ------------------------------- | ---------------------- |
-| What is the flag in `user.txt`? | `THM{y0u_g0t_a_sh3ll}` |
+| Question                        | Answer                                                             |
+| ------------------------------- | ------------------------------------------------------------------ |
+| What is the flag in `user.txt`? | <details><summary>Reveal</summary>`THM{y0u_g0t_a_sh3ll}`</details> |
 
 ### Task 4: Privilege Escalation
 
-| Question                                                    | Answer                      |
-| ----------------------------------------------------------- | --------------------------- |
-| Search for files with SUID permission, which file is weird? | `/usr/bin/python`           |
-| Escalate privs and what is the flag in `root.txt`?          | `THM{pr1v1l3g3_3sc4l4t10n}` |
+| Question                                                    | Answer                                                                  |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Search for files with SUID permission, which file is weird? | <details><summary>Reveal</summary>`/usr/bin/python`</details>           |
+| Escalate privs and what is the flag in `root.txt`?          | <details><summary>Reveal</summary>`THM{pr1v1l3g3_3sc4l4t10n}`</details> |
 
 ---
 
@@ -397,4 +399,5 @@ When you find a SUID binary, check **[GTFOBins](https://gtfobins.github.io/)** â
 | GTFOBins          | Reference for SUID/sudo exploitation    |
 
 ---
+
 > This write-up was created by `saintmichael`
