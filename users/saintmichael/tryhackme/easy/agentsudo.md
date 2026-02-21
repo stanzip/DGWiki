@@ -351,7 +351,8 @@ Agent C
 We also got the following pictures:
 
 ![cutie](https://dgwiki.dg4e.net/users/saintmichael/tryhackme/easy/img/as-cutie.png)
-![cute-alien](https://dgwiki.dg4e.net/users/saintmichael/tryhackme/easy/img/as-cute-alien.png)
+
+![cute-alien](https://dgwiki.dg4e.net/users/saintmichael/tryhackme/easy/img/as-cute-alien.jpg)
 
 Based on the message from Agent C, there is something hidden inside the pictures — so we can use `binwalk` to investigate.
 
