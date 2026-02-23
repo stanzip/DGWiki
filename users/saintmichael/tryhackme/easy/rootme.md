@@ -1,6 +1,6 @@
 # TryHackMe CTF
 
-> This write-up has been reformatted using AI from my orginial notes for clarity and better viewing
+> This write-up has been reformatted using AI from my original notes for clarity and better viewing
 
 ## Machine Information
 
